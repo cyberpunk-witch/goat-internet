@@ -8,4 +8,4 @@ I don't think there's a functional 'reason' for a goat protocol, but I reasoned 
 
 Probably also the browser will need password protection to use. Maybe just the word 'goat'.
 
-![image](https://github.com/cyberpunk-witch/goat-internet/assets/120281700/7262731e-37d3-4051-9826-ee52e637f8ef)
+![image](https://github.com/cyberpunk-witch/goat-internet/assets/120281700/a926253c-70ba-4488-a6db-01b0a849c2e8)
